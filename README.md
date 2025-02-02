@@ -1,4 +1,4 @@
-# Frases do Dia - Harvey Specter
+# Frases do Dia 
 
 **Frases do Dia** é um aplicativo simples e inspirador, desenvolvido em Flutter (versão mais recente), que gera uma frase motivacional ou sábia inspirada no estilo de Harvey Specter, personagem da série *Suits*. Com um único clique no botão, você recebe uma frase cheia de confiança e sabedoria para encarar o dia!
 
